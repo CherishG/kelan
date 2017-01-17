@@ -13,6 +13,7 @@ Vue.use(VueLazyload, {
     attempt: 1
   }
 )
+// change
 
 /* eslint-disable no-new */
 new Vue({
